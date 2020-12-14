@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run <filename>.py
+web: sh setup.sh && streamlit run airbnbplot_final.py
