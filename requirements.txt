@@ -1,0 +1,5 @@
+$ cd ~/<folder_path>\ 
+$ pipreqs
+$ git add requirements.txt 
+$ git commit -m "requirements.txt" 
+$ git push
